@@ -14,4 +14,4 @@ form?.addEventListener('submit', (e) => {
     // валидация см. 1.4.2; при успехе закрываем окно 
 });
 dlg.addEventListener('close', () => { lastActive?.focus(); });
-// Esc по умолчанию вызывает событие 'cancel' и закрывает <dialog>
+// Esc по умолчанию вызывает событие 'cancel' и закрывает <dialog> 
