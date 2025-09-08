@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения. 
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://manfred246.github.io/Example_prod/)
+- [Публичная страница на GitHub Pages](https://manfred246.github.io/Example_prod/src/index.html)
